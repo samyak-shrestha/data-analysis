@@ -1,0 +1,103 @@
+Date,Type of Aircraft,Operator,Place,Fatality,Type
+1946-05-07,Douglas C-47 Skytrain (DC-3),Royal Air Force,simara narayani,0.0,domestic
+1955-08-30,Douglas C-47 Skytrain (DC-3),Kalinga Airlines,simara narayani,2.0,domestic
+1960-05-05,Pilatus PC-6 Turbo Porter,Swiss Dhaulagiri Expendition,nepal,0.0,domestic
+1960-11-05,Douglas DC-3,Royal Nepal Airlines,nepal,4.0,domestic
+1961-03-22,Douglas DC-3,PIA,nepal nepal,0.0,domestic
+1961-03-09,De Havilland DHC-6 Turbo Porter,Royal Nepal Airlines,nepal nepal,0.0,domestic
+1962-08-01,Douglas C-47 Skytrain (DC-3),Royal Nepal Airlines,tulachan dhuri nepal,10.0,domestic
+1962-08-26,Pilatus PC-6 Turbo Porter,Royal Nepal Airlines,nepal,0.0,domestic
+1967-02-08,Pilatus PC-6 Turbo Porter,Swiss Government,nepal,0.0,domestic
+1969-07-12,Douglas C-47 Skytrain (DC-3),Royal Nepal Airlines,nepalgunj bheri,0.0,domestic
+1969-07-12,Douglas DC-3,Royal Nepal Airlines,hetauda narayani,35.0,domestic
+1970-02-27,De Havilland DHC-6 Twin Otter,Royal Nepalese Air Force,jomshom dhawalagiri,1.0,domestic
+1972-09-13,Douglas C-47 Skytrain (DC-3),Royal Nepalese Air Force,kathmandu bagmati,31.0,domestic
+1973-05-10,Douglas DC-8-33,Thai,tribhuvan international airport kathmandu bagmati,1.0,domestic
+1973-10-15,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,lukla sagarmatha,0.0,domestic
+1975-03-31,Pilatus PC-6 Turbo Porter,Royal Nepal Airlines,kathmandu bagmati,5.0,domestic
+1978-04-07,Short SC.7 Skyvan Variant,Royal Nepalese Air Force,rukumkot rapti,0.0,domestic
+1981-11-19,Pilatus PC-6 Turbo Porter,Royal Nepal Airlines,biratnagar koshi,10.0,domestic
+1984-12-22,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,bhojpur koshi,15.0,domestic
+1985-12-30,Short SC.7 Skyvan Variant,Royal Nepalese Air Force,nepal nepal,25.0,domestic
+1986-05-03,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,namche bazar sagarmatha,11.0,domestic
+1991-07-10,De Havilland DHC-6 Twin Otter,Royal Nepalese Air Force,surkhet bheri,3.0,domestic
+1991-06-20,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,simikot karnali,0.0,domestic
+1991-06-09,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,lukla sagarmatha,0.0,domestic
+1992-09-26,Harbin Yunsunji Y-12,Royal Nepal Airlines,lukla,0.0,domestic
+1992-07-05,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,jumla karnali,0.0,domestic
+1993-11-08,Harbin Yunsunji Y-12,Nepal Airways,jomsom dhawalagiri,0.0,domestic
+1995-01-17,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,kathmandu bagmati,2.0,domestic
+1996-04-25,Avro 748,Royal Nepal Airlines,meghuli narayani,0.0,domestic
+1997-11-06,Avro 748,Necon Air,pokhara gandaki,0.0,domestic
+1998-11-19,Pilatus PC-6 Turbo Porter,Royal Nepal Airlines,namche bazar sagarmatha,1.0,domestic
+1998-08-21,De Havilland DHC-6 Twin Otter,Lumbini Airways,pokhara gandaki,18.0,domestic
+1999-12-25,De Havilland DHC-6 Twin Otter,Skyline Airways,simara nararayani,10.0,domestic
+1999-09-05,Avro 748,Necon Air,kathmandu bagmati,15.0,domestic
+1999-08-07,Short SC.7 Skyvan Variant,Royal Nepalese Air Force,surkhet bheri,0.0,domestic
+1999-01-17,Cessna 208 Caravan,Necon Air,jumla karnali,5.0,domestic
+2000-07-27,De Havilland DHC-6 Twin Otter,Royal Nepal Airlines,dhangadi seti,25.0,domestic
+2002-08-22,De Havilland DHC-6 Twin Otter,Shangri-la,pokhara gandaki,18.0,domestic
+2002-07-17,De Havilland DHC-6 Twin Otter,Skyline Airways,surkhet bheri,4.0,domestic
+2004-05-25,De Havilland DHC-6 Twin Otter,Yeti Airlines,lukla sagarmatha,3.0,domestic
+2005-06-30,Dornier DO228,Gorkha Airlines,lukla,0.0,domestic
+2006-06-21,De Havilland DHC-6 Twin Otter,Yeti Airlines,jumla karnali,9.0,domestic
+2008-10-08,De Havilland DHC-6 Twin Otter,Yeti Airlines,lukla sagarmatha,18.0,domestic
+2010-12-15,De Havilland DHC-6 Twin Otter,Tara Airlines,nepal nepal,22.0,domestic
+2010-08-24,Dornier DO228,Agni Air,kathmandu bagmati,14.0,domestic
+2011-10-18,Britten-Normal Islander,Royal Nepalese Air Force,nepal nepal,6.0,domestic
+2011-09-25,Beechcraft 1900D,Buddha Air,kathmandu bagmati,19.0,domestic
+2012-09-28,Dornier DO228,Sita Air,kathmandu bagmati,19.0,domestic
+2012-05-14,Dornier DO228,Agni Air,jomsom dhawalagiri,15.0,domestic
+2013-06-01,Dornier DO228,Sita Air,simikot karnali,0.0,domestic
+2013-05-27,Cessna 208B Grand Caravan,Goma Air,simikot karnali,0.0,domestic
+2013-05-16,De Havilland DHC-6 Twin Otter,Nepal Airlines,jomsom dhawalagiri,0.0,domestic
+2014-02-16,De Havilland DHC-6 Twin Otter,Nepal Airlines,arghakhanchi lumbini,18.0,domestic
+2016-09-24,Bae Jetstream 41,Yeti Airlines,siddharthanagar lumbini,0.0,domestic
+2016-02-26,PAC 750XL -Pacific Aerospace Corporation,Air Kashtamandap,chilkhaya karnali,2.0,domestic
+2016-02-24,De Havilland DHC-6 Twin Otter,Tara Air,dana dhawaagiri,23.0,domestic
+2017-05-27,Let L-410 Turbolet,Summit Air,lukla,2.0,domestic
+2022-05-29,de Havilland Canada DHC-6-300 Twin Otter,Tara Air,myagdi,22.0,domestic
+2023-01-15,ATR 72,Yeti Air,pokhara,72.0,domestic
+2024-07-24,Bombardier CRJ-200,Saurya Airlines,kathmandu,18.0,domestic
+1956-05-15,Douglas C-47 Skytrain (DC-3),Indian Airlines,kathmandu bagmati,15.0,foreign
+1958-03-24,Douglas C-47 Skytrain (DC-3),Indian Airlines,kathmandu bagmati,20.0,foreign
+1992-09-28,Airbus A300,PIA,kathmandu bagmati,167.0,foreign
+1992-07-31,Airbus A310,Thai,kathmandu bagmati,113.0,foreign
+1999-07-07,Boeing 727-200,Hinduja Cargo,kathmandu bagmati,5.0,foreign
+2015-03-04,Airbus A330-300,Turkish Airlines,kathmandu bagmati,0.0,foreign
+2018-03-12,Bombardier Q400,Us-Bangla Airlines,kathmandu bagmati,51.0,foreign
+1979-12-27,Allutte-III,VVIP,langtang,6.0,heli
+1993-04-27,Bell-206,Himalayan Helicopter,langtang,0.0,heli
+1996-01-24,MI-17,Nepal Airways,sotanf,0.0,heli
+1999-01-17,AS-350,Karnali Airways,thupten choling,1.0,heli
+1997-12-13,MI-17,Gorkha Airlines,kalikot,0.0,heli
+1998-01-04,Bell-206,VVIP Flight,dipayal,0.0,heli
+1998-10-24,AS-350B,Asian Airlines,mul khark,3.0,heli
+1999-04-30,AS-350BA,Karnali Air,lisunkhu sindhupalchowk,0.0,heli
+1999-05-31,AS-350B2,Manakamna Airways,ramechhap,0.0,heli
+2001-09-11,MI-17,Air Ananya,mimi,0.0,heli
+2001-11-12,AS-350B,Fishtail Air,rara lake mugu,4.0,heli
+2002-05-12,AS 350B2,Karnali Air,makalu base camp,0.0,heli
+2002-09-30,MI-17 (MI8- MTV),Asian Airlines,solukhumbu,0.0,heli
+2003-05-28,MI-17 IV,Simrik Air,everest base camp,2.0,heli
+2005-01-04,AS-350BA,Air Dynasty Heli Service,thhose vdc ramechhap,3.0,heli
+2005-06-02,MI-17,Shree Airlines,everest base camp,,heli
+2006-05-07,MI-17 MTV1,Heli Hansa Service,dhawalagiri base camp,0.0,heli
+2006-08-08,MI-17,Karnali Air,ti airport ktm,0.0,heli
+2006-09-03,AS-350BA,Air Dynasty Heli Service,dhawalagiri base camp,0.0,heli
+2006-09-23,MI-17,Shree Airlines,ghunsa taplejung,24.0,heli
+2006-11-23,MI-17,Simrik Airlines,raralihi jumla,0.0,heli
+2008-06-29,AS-350,Fishtail Air,annapurna base camp,0.0,heli
+2009-11-15,MI-8,Manang Air,rudikot humla district,1.0,heli
+2010-11-07,AS 350B3,Fishtail Air,amadablam mountain,2.0,heli
+2011-11-29,AS 350B,Fishtail Air,solukhumbu,0.0,heli
+2013-06-19,AS 350B3,Fishtail Air,simikot muchu,1.0,heli
+2014-08-03,AS 350B3,Fishtail Air,sindhupalchok,1.0,heli
+2015-06-02,AS 350B3,Mountain Helicopter,yamuna danda,4.0,heli
+2015-06-22,AS 350B3e,Simrik Air,samdo gorkha,0.0,heli
+2015-05-12,nan,US Marine Corps,charikot,13.0,heli
+2016-03-17,AS 350B3,Fishtail Air,langtang,0.0,heli
+2016-08-08,AS 350B3,Fishtail Air,betani nuwakot,7.0,heli
+2019-02-27,AS 350,Air Dynasty,taplejung,7.0,heli
+2023-07-11,-,Manang Air,solukhumbu solududhkunda municipality,6.0,heli
+2024-08-07,nan,Air Dynasty,surya chaur7 shıvapuri nuwakot,5.0,heli
